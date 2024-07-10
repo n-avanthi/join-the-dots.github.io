@@ -1,6 +1,6 @@
-# Join the Dots
+# Connect the Colors
 
-Join the Dots is a puzzle game where players connect pairs of matching colored dots on a grid. The challenge is to draw lines that connect each pair without intersecting other lines. This game tests spatial reasoning and problem-solving skills.
+Connect the Colors is a puzzle game where players connect pairs of matching colored dots on a grid. The challenge is to draw lines that connect each pair without intersecting other lines. This game tests spatial reasoning and problem-solving skills.
 
 ## Dependencies
 
@@ -8,7 +8,7 @@ This project requires the installation of GDevelop, a game development platform.
 
 ## Installation
 
-To get started with Join the Dots, you can clone this repository to your local machine using the following command:
+To get started with Connect the Colors, you can clone this repository to your local machine using the following command:
 
 ```
 git clone https://github.com/n-avanthi/join-the-dots.io
